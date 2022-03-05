@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3E5wWzu8QcrUH+RqTmTrjZ9oVPDANcPSJEtjDeVcT/RL7aPIXB+LxJ6NyPfPRf5LjYdm1inF5Hiw+pYRVO4cXw==",
+  "success": true,
+  "projectFilePath": "C:\\Repo\\passometro-teste\\passometro-teste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devpe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\devpe\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\devpe\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\devpe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\devpe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\devpe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
